@@ -1,0 +1,4 @@
+(executable
+ (public_name lit)
+ (name lit)
+ (package LitProgram))
